@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  content: MyString
+  mood: MyString
+  mood_rating: 1
+  photo_url: MyString
+  collection: one
+
+two:
+  content: MyString
+  mood: MyString
+  mood_rating: 1
+  photo_url: MyString
+  collection: two
